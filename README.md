@@ -1,5 +1,5 @@
 # 💫 About Me:
-I recently completed my internship from Ranqinxz Digital Consultancy.<br>I am working on my project and learning MERN with AI integration.
+I am a passionate Fullstack Developer and completed my internship from Ranqinxz Digital Consultancy as a Frontend Developer.<br>I am working on my project and enhancing my skilss in MERN with AI integration.
 
 
 # 💻 Tech Stack:
