@@ -1,5 +1,19 @@
 # 💫 About Me:
-I am a passionate Fullstack Developer and completed my internship from Ranqinxz Digital Consultancy as a Frontend Developer.<br>I am working on my project and enhancing my skilss in MERN with AI integration.
+I am a motivated Full-Stack MERN Developer with a strong interest in building scalable, user-centric web applications that solve real-world problems.
+
+I have hands-on experience developing complete applications using MongoDB, Express.js, React.js, and Node.js, working across both frontend and backend. My projects include NewsHunter, a real-time news aggregation platform with API integration and responsive UI, and a national-level digital platform for philatelists in India featuring dashboards, community forums, secure authentication, and database-driven workflows.
+
+I enjoy working on:
+
+Clean and responsive UI using React.js & Tailwind CSS
+
+Backend development with Node.js, Express, and MongoDB
+
+RESTful APIs, authentication, and state management
+
+Debugging, optimizing performance, and improving user experience
+
+I am passionate about continuous learning, writing maintainable code, and understanding how systems work end-to-end. I am currently open to internships, entry-level, and full-time opportunities where I can contribute as a Frontend / Backend / Full-Stack Developer and grow within a collaborative team.
 
 
 # 💻 Tech Stack:
