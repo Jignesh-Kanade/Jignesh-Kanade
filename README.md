@@ -1,19 +1,28 @@
-# 💫 About Me:
-I am a motivated Full-Stack MERN Developer with a strong interest in building scalable, user-centric web applications that solve real-world problems.
+## 👋 Hi, I'm Jignesh
 
-I have hands-on experience developing complete applications using MongoDB, Express.js, React.js, and Node.js, working across both frontend and backend. My projects include NewsHunter, a real-time news aggregation platform with API integration and responsive UI, and a national-level digital platform for philatelists in India featuring dashboards, community forums, secure authentication, and database-driven workflows.
+I'm a **Java Full Stack Developer** and recent Computer Engineering graduate
+(BE, 2026) from Maharashtra, India. I like building real-world, multi-role web
+platforms from scratch, covering the frontend, backend, and the architecture
+decisions in between.
 
-I enjoy working on:
+I've built various full-stack projects and have hands-on experience taking them
+from idea to working application, including authentication, role-based access,
+payment integration, and deployment.
 
-Clean and responsive UI using React.js & Tailwind CSS
+### 🔧 What I Work With
+- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, REST APIs, JWT
+- **Frontend:** React, Vite, Context API, Tailwind CSS, JavaScript
+- **Database:** MySQL
+- **Integrations:** Razorpay payments, real-time notifications
+- **Deployment:** Vercel, Render, Railway
 
-Backend development with Node.js, Express, and MongoDB
+### 💼 Experience
+- Frontend Developer Intern (April 2025)
 
-RESTful APIs, authentication, and state management
-
-Debugging, optimizing performance, and improving user experience
-
-I am passionate about continuous learning, writing maintainable code, and understanding how systems work end-to-end. I am currently open to internships, entry-level, and full-time opportunities where I can contribute as a Frontend / Backend / Full-Stack Developer and grow within a collaborative team.
+### 🎯 Currently
+- Looking for my first full-time role as a **Java Full Stack Developer**
+- Open to opportunities anywhere in India
+- Continuing to sharpen my Spring Boot and React skills by building new projects
 
 
 # 💻 Tech Stack:
